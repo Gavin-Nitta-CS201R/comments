@@ -1,0 +1,28 @@
+nohup: ignoring input
+
+> comments@0.0.0 start /opt/bitnami/apache2/htdocs/CS360/Lab9_Angular/comments
+> node ./bin/www
+
+[0mGET / [32m200 [0m6.759 ms - 1293[0m
+[0mGET /javascripts/app.js [32m200 [0m2.031 ms - 1147[0m
+[0mGET /comments [32m200 [0m11.898 ms - 2[0m
+[0mPOST /comments [32m200 [0m35.732 ms - 75[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/upvote [32m200 [0m8.256 ms - 75[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/upvote [32m200 [0m2.545 ms - 75[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/upvote [32m200 [0m2.244 ms - 75[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/downvote [32m200 [0m2.134 ms - 75[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/downvote [32m200 [0m2.425 ms - 75[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/downvote [32m200 [0m2.005 ms - 75[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/upvote [32m200 [0m2.220 ms - 75[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/upvote [32m200 [0m3.279 ms - 75[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/upvote [32m200 [0m2.743 ms - 75[0m
+[0mDELETE /comments/56eccc5fe192c7a708db0b84/delete [32m200 [0m2.826 ms - 75[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/downvote [0m- [0m- ms - -[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/downvote [31m500 [0m316.670 ms - 692[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/downvote [0m- [0m- ms - -[0m
+[0mPUT /comments/56eccc5fe192c7a708db0b84/downvote [0m- [0m- ms - -[0m
+[0mGET / [36m304 [0m2.165 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.590 ms - -[0m
+[0mGET /comments [32m200 [0m2.179 ms - 2[0m
+[0mPOST /comments [32m200 [0m3.374 ms - 67[0m
+[0mDELETE /comments/56eccd62e192c7a708db0b85/delete [32m200 [0m3.573 ms - 67[0m
